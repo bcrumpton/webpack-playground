@@ -19,7 +19,9 @@
     "sass-loader": "^12.6.0",
     "style-loader": "^3.3.1",
     "webpack": "^5.69.1",
-    "webpack-cli": "^4.9.2"
+    "webpack-cli": "^4.9.2",
+    "webpack-extraneous-file-cleanup-plugin": "^2.0.0",
+    "webpack-remove-empty-scripts": "^0.7.3"
   },
   "dependencies": {
     "lodash": "^4.17.21"

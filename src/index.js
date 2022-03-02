@@ -1,5 +1,3 @@
-import "./main.scss";
-import "./index.scss";
 import _ from "lodash";
 
 function component() {
